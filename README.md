@@ -1,8 +1,9 @@
 # listimport
-Domain listesini MaestroPanel'e aktarır
+Text dosyasındaki domain isimlerini satır satır gezerek MaestroPanel'de belirlediğiniz Domain Planı'na göre oluşturur.
 
 ###Download
-----------
+
+ - https://raw.githubusercontent.com/maestropanel/listimport/master/listimport.ps1
 
 ###Parametreler
 
